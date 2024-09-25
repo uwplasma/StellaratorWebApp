@@ -32,8 +32,5 @@ routes.py
 Purpose: Defines the route (URL) for the homepage /. When a user visits this URL, the index() function renders index.html from the templates folder.
 
 
-The folder Stellarator_webapp is for my initial deployment of the web application
 
-query_stellarators.py is the python script for the application I demonstrated in the meeting that day
 
-good_data.sql is the 
